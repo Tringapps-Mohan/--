@@ -1,0 +1,39 @@
+{
+    "Phones":[
+        {
+            "type":"Realme",
+            "options":[
+                {
+                    "name":"Realme C2",
+                    "price":10000
+                },
+                {
+                    "name":"Realme C30s",
+                    "price":7500
+                }
+            ]
+        },
+        {
+            "type":"Samsung",
+            "options":[
+                {
+                    "name":"Galaxy",
+                    "price":9000
+                },
+                {
+                    "name":"Galaxy Fold",
+                    "price":12000
+                }
+            ]
+        },
+        {
+            "type":"Intex",
+            "options":[
+                {
+                    "name":"Intex Cloud 4G",
+                    "price":8000
+                }
+            ]
+        }
+    ]
+}
